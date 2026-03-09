@@ -10,3 +10,6 @@ return the index of the last occurrence of the string. return -1 if the String c
 
 3. Create a function called _findSecond_(char[] array, char character) that searches an char array for the given char.</br>
 return the index of the second occurrence of the char.  If there is only one occurrence, return that index of the char.  return -1 if the char cannot be found.  _Hint: Use a counter_</br>
+
+4. Create a function called _findAll_(double[] array, double number) that searches a double array for the given double. </br>
+return an integer array with _all_ indexes where the number can be found.  return an empty integer array if the double cannot be found.
